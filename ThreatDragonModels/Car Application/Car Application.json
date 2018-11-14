@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Car Application",
+    "owner": "Mikail O. Andreassen",
+    "description": "A threat model for the workshop in DAT152"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Mikail O. Andreassen"
+  }
+}
